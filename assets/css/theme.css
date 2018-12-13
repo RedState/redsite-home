@@ -4,6 +4,90 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+ @font-face {
+    font-family: "Circular";
+    src: url("assets/fonts/lineto-circular-pro-black.eot");
+    src: url("assets/fonts/lineto-circular-pro-black.eot?#iefix") format("embedded-opentype"),
+         url("assets/fonts/lineto-circular-pro-black.woff2") format("woff2"),
+         url("assets/fonts/lineto-circular-pro-black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url("assets/fonts/lineto-circular-pro-blackitalic.eot");
+    src: url("assets/fonts/lineto-circular-pro-blackitalic.eot?#iefix") format("embedded-opentype"),
+         url("assets/fonts/lineto-circular-pro-blackitalic.woff2") format("woff2"),
+         url("assets/fonts/lineto-circular-pro-blackitalic.woff") format("woff");
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url("assets/fonts/lineto-circular-pro-bold.eot");
+    src: url("assets/fonts/lineto-circular-pro-bold.eot?#iefix") format("embedded-opentype"),
+         url("assets/fonts/lineto-circular-pro-bold.woff2") format("woff2"),
+         url("assets/fonts/lineto-circular-pro-bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url("assets/fonts/lineto-circular-pro-bolditalic.eot");
+    src: url("assets/fonts/lineto-circular-pro-bolditalic.eot?#iefix") format("embedded-opentype"),
+         url("assets/fonts/lineto-circular-pro-bolditalic.woff2") format("woff2"),
+         url("assets/fonts/lineto-circular-pro-bolditalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url("assets/fonts/lineto-circular-pro-book.eot");
+    src: url("assets/fonts/lineto-circular-pro-book.eot?#iefix") format("embedded-opentype"),
+         url("assets/fonts/lineto-circular-pro-book.woff2") format("woff2"),
+         url("assets/fonts/lineto-circular-pro-book.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url("assets/fonts/lineto-circular-pro-bookitalic.eot");
+    src: url("assets/fonts/lineto-circular-pro-bookitalic.eot?#iefix") format("embedded-opentype"),
+         url("assets/fonts/lineto-circular-pro-bookitalic.woff2") format("woff2"),
+         url("assets/fonts/lineto-circular-pro-bookitalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url("assets/fonts/lineto-circular-pro-medium.eot");
+    src: url("assets/fonts/lineto-circular-pro-medium.eot?#iefix") format("embedded-opentype"),
+         url("assets/fonts/lineto-circular-pro-medium.woff2") format("woff2"),
+         url("assets/fonts/lineto-circular-pro-medium.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Circular";
+    src: url("assets/fonts/lineto-circular-pro-mediumitalic.eot");
+    src: url("assets/fonts/lineto-circular-pro-mediumitalic.eot?#iefix") format("embedded-opentype"),
+         url("assets/fonts/lineto-circular-pro-mediumitalic.woff2") format("woff2"),
+         url("assets/fonts/lineto-circular-pro-mediumitalic.woff") format("woff");
+    font-weight: 600;
+    font-style: italic;
+}
+
+
+
+
 :root {
   --blue: #4582EC;
   --indigo: #6610f2;
@@ -304,7 +388,7 @@ template {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 1.5rem;
-  font-family: LL Circular Pro Bold Web;
+  font-family: Circular;
   font-weight: 400;
   line-height: 1.1;
   color: #343a40; }

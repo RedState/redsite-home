@@ -30,47 +30,47 @@
 /* Complete */
 
 @font-face {
-    font-family: "LL Circular Pro Black Web";
+    font-family: "Circular";
     src: url("assets/fonts/lineto-circular-pro-black.eot");
     src: url("assets/fonts/lineto-circular-pro-black.eot?#iefix") format("embedded-opentype"),
          url("assets/fonts/lineto-circular-pro-black.woff2") format("woff2"),
          url("assets/fonts/lineto-circular-pro-black.woff") format("woff");
-    font-weight: normal;
+    font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "LL Circular Pro Black Italic Web";
+    font-family: "Circular";
     src: url("assets/fonts/lineto-circular-pro-blackitalic.eot");
     src: url("assets/fonts/lineto-circular-pro-blackitalic.eot?#iefix") format("embedded-opentype"),
          url("assets/fonts/lineto-circular-pro-blackitalic.woff2") format("woff2"),
          url("assets/fonts/lineto-circular-pro-blackitalic.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 900;
+    font-style: italic;
 }
 
 @font-face {
-    font-family: "LL Circular Pro Bold Web";
+    font-family: "Circular";
     src: url("assets/fonts/lineto-circular-pro-bold.eot");
     src: url("assets/fonts/lineto-circular-pro-bold.eot?#iefix") format("embedded-opentype"),
          url("assets/fonts/lineto-circular-pro-bold.woff2") format("woff2"),
          url("assets/fonts/lineto-circular-pro-bold.woff") format("woff");
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "LL Circular Pro Bold Italic Web";
+    font-family: "Circular";
     src: url("assets/fonts/lineto-circular-pro-bolditalic.eot");
     src: url("assets/fonts/lineto-circular-pro-bolditalic.eot?#iefix") format("embedded-opentype"),
          url("assets/fonts/lineto-circular-pro-bolditalic.woff2") format("woff2"),
          url("assets/fonts/lineto-circular-pro-bolditalic.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
+    font-weight: bold;
+    font-style: italic;
 }
 
 @font-face {
-    font-family: "LL Circular Pro Book Web";
+    font-family: "Circular";
     src: url("assets/fonts/lineto-circular-pro-book.eot");
     src: url("assets/fonts/lineto-circular-pro-book.eot?#iefix") format("embedded-opentype"),
          url("assets/fonts/lineto-circular-pro-book.woff2") format("woff2"),
@@ -80,114 +80,35 @@
 }
 
 @font-face {
-    font-family: "LL Circular Pro Book Italic Web";
+    font-family: "Circular";
     src: url("assets/fonts/lineto-circular-pro-bookitalic.eot");
     src: url("assets/fonts/lineto-circular-pro-bookitalic.eot?#iefix") format("embedded-opentype"),
          url("assets/fonts/lineto-circular-pro-bookitalic.woff2") format("woff2"),
          url("assets/fonts/lineto-circular-pro-bookitalic.woff") format("woff");
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
 }
 
 @font-face {
-    font-family: "LL Circular Pro Medium Web";
+    font-family: "Circular";
     src: url("assets/fonts/lineto-circular-pro-medium.eot");
     src: url("assets/fonts/lineto-circular-pro-medium.eot?#iefix") format("embedded-opentype"),
          url("assets/fonts/lineto-circular-pro-medium.woff2") format("woff2"),
          url("assets/fonts/lineto-circular-pro-medium.woff") format("woff");
-    font-weight: normal;
+    font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "LL Circular Pro Medium Italic Web";
+    font-family: "Circular";
     src: url("assets/fonts/lineto-circular-pro-mediumitalic.eot");
     src: url("assets/fonts/lineto-circular-pro-mediumitalic.eot?#iefix") format("embedded-opentype"),
          url("assets/fonts/lineto-circular-pro-mediumitalic.woff2") format("woff2"),
          url("assets/fonts/lineto-circular-pro-mediumitalic.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 600;
+    font-style: italic;
 }
 
 
-/* Subsetted */
 
-@font-face {
-    font-family: "LL Circular Pro Black Sub";
-    src: url("fonts_subsetted/lineto-circular-pro-black.eot");
-    src: url("fonts_subsetted/lineto-circular-pro-black.eot?#iefix") format("embedded-opentype"),
-         url("fonts_subsetted/lineto-circular-pro-black.woff2") format("woff2"),
-         url("fonts_subsetted/lineto-circular-pro-black.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LL Circular Pro Black Italic Sub";
-    src: url("fonts_subsetted/lineto-circular-pro-blackitalic.eot");
-    src: url("fonts_subsetted/lineto-circular-pro-blackitalic.eot?#iefix") format("embedded-opentype"),
-         url("fonts_subsetted/lineto-circular-pro-blackitalic.woff2") format("woff2"),
-         url("fonts_subsetted/lineto-circular-pro-blackitalic.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LL Circular Pro Bold Sub";
-    src: url("fonts_subsetted/lineto-circular-pro-bold.eot");
-    src: url("fonts_subsetted/lineto-circular-pro-bold.eot?#iefix") format("embedded-opentype"),
-         url("fonts_subsetted/lineto-circular-pro-bold.woff2") format("woff2"),
-         url("fonts_subsetted/lineto-circular-pro-bold.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LL Circular Pro Bold Italic Sub";
-    src: url("fonts_subsetted/lineto-circular-pro-bolditalic.eot");
-    src: url("fonts_subsetted/lineto-circular-pro-bolditalic.eot?#iefix") format("embedded-opentype"),
-         url("fonts_subsetted/lineto-circular-pro-bolditalic.woff2") format("woff2"),
-         url("fonts_subsetted/lineto-circular-pro-bolditalic.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LL Circular Pro Book Sub";
-    src: url("fonts_subsetted/lineto-circular-pro-book.eot");
-    src: url("fonts_subsetted/lineto-circular-pro-book.eot?#iefix") format("embedded-opentype"),
-         url("fonts_subsetted/lineto-circular-pro-book.woff2") format("woff2"),
-         url("fonts_subsetted/lineto-circular-pro-book.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LL Circular Pro Book Italic Sub";
-    src: url("fonts_subsetted/lineto-circular-pro-bookitalic.eot");
-    src: url("fonts_subsetted/lineto-circular-pro-bookitalic.eot?#iefix") format("embedded-opentype"),
-         url("fonts_subsetted/lineto-circular-pro-bookitalic.woff2") format("woff2"),
-         url("fonts_subsetted/lineto-circular-pro-bookitalic.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LL Circular Pro Medium Sub";
-    src: url("fonts_subsetted/lineto-circular-pro-medium.eot");
-    src: url("fonts_subsetted/lineto-circular-pro-medium.eot?#iefix") format("embedded-opentype"),
-         url("fonts_subsetted/lineto-circular-pro-medium.woff2") format("woff2"),
-         url("fonts_subsetted/lineto-circular-pro-medium.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LL Circular Pro Medium Italic Sub";
-    src: url("fonts_subsetted/lineto-circular-pro-mediumitalic.eot");
-    src: url("fonts_subsetted/lineto-circular-pro-mediumitalic.eot?#iefix") format("embedded-opentype"),
-         url("fonts_subsetted/lineto-circular-pro-mediumitalic.woff2") format("woff2"),
-         url("fonts_subsetted/lineto-circular-pro-mediumitalic.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
 }
