@@ -391,7 +391,8 @@ h1, h2, h3, h4, h5, h6,
   font-family: Circular;
   font-weight: 700;
   line-height: 1.1;
-  color: #343a40; }
+  color: #343a40;
+  letter-spacing: 0.04em; }
 
 h1, .h1 {
   font-size: 2.5rem; }
@@ -7874,7 +7875,7 @@ body {
     font-size: 0.875rem; } }
 
 h1, .h1 {
-  font-weight: 300;
+  font-weight: 700;
   line-height: 3rem; }
 
 h2, .h2 {
@@ -7907,7 +7908,8 @@ h1:last-child, .h1:last-child, h2:last-child, .h2:last-child, h3:last-child, .h3
     line-height: 2.25rem; } }
 
 .h1, .h2, .h3, .h4, .h5, .h6, .display-1, .display-2, .display-3, .display-4 {
-  display: block; }
+  display: block;
+  letter-spacing: 0.04em; }
 
 .display-1, .display-2, .display-3, .display-4 {
   margin-bottom: 1.5rem;
