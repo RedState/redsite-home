@@ -7909,7 +7909,7 @@ h1:last-child, .h1:last-child, h2:last-child, .h2:last-child, h3:last-child, .h3
 
 .h1, .h2, .h3, .h4, .h5, .h6, .display-1, .display-2, .display-3, .display-4 {
   display: block;
-  letter-spacing: 0.04em; }
+  letter-spacing: -0.04em; }
 
 .display-1, .display-2, .display-3, .display-4 {
   margin-bottom: 1.5rem;
